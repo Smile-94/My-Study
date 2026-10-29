@@ -1,18 +1,4 @@
 # Phase 1: Financial System Fundamentals
-
-## A Bangladesh-Focused Learning Guide for Fintech Software Engineers
-
-**Filename:** `PHASE_01_FINANCIAL_SYSTEM_FUNDAMENTALS.md`\
-**Audience:** Software engineers working in or moving toward Mobile
-Financial Services (MFS), payment processing, banking integrations, and
-fintech architecture.\
-**Estimated first pass:** 3 weeks part-time\
-**Prerequisites:** None\
-**Important:** This is an educational guide, not legal, accounting, or
-regulatory advice. Confirm company-specific accounting treatments and
-current regulatory requirements with your finance, compliance, risk, and
-legal teams.
-
 ------------------------------------------------------------------------
 
 ## Table of Contents
